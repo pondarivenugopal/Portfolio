@@ -1,4 +1,4 @@
 # Portfolio
 
-gmail: venugopalpondari@hmail.com
+gmail: venugopalpondari@gmail.com
 website link: https://pondarivenugopal.github.io/Portfolio/
